@@ -1,1 +1,31 @@
-LAIM_Version.txt 5,LA_IM.exe 338432,Manifest_NonUFSFiles_Win64.txt 2237,Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll 1369936,Engine\Binaries\ThirdParty\libsndfile\Win64\libsndfile-1.dll 1810944,Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64\GFSDK_Aftermath_Lib.x64.dll 117760,Engine\Binaries\ThirdParty\Oculus\OVRPlugin\OVRPlugin\Win64\OVRPlugin.dll 2442168,Engine\Binaries\ThirdParty\Ogg\Win64\VS2015\libogg_64.dll 49152,Engine\Binaries\ThirdParty\OpenVR\OpenVRv1_5_17\Win64\openvr_api.dll 597792,Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\ApexFramework_x64.dll 1043968,Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Clothing_x64.dll 1219072,Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Legacy_x64.dll 3329536,Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\NvCloth_x64.dll 265728,Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Common_x64.dll 1598976,Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Cooking_x64.dll 244736,Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3_x64.dll 2106368,Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxFoundation_x64.dll 54784,Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxPvdSDK_x64.dll 188928,Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll 37888,Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll 1714176,Engine\Binaries\ThirdParty\Windows\DirectX\x64\WinPixEventRuntime.dll 44752,Engine\Binaries\Win64\CrashReportClient.exe 16771328,Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe 41562088,Engine\Programs\CrashReportClient\Content\Paks\CrashReportClient.pak 5007885,LA_IM\Binaries\Win64\LA_IM-Win64-Shipping.exe 51516928,LA_IM\Content\Movies\creditUE4.mp4 7924288,LA_IM\Content\Movies\Intro Clean.mp4 1340257,LA_IM\Content\Movies\IntroClean-Black.mp4 1199280,LA_IM\Content\Movies\UE4_Moving_Logo_1080_60.mp4 4160699,LA_IM\Content\Paks\LA_IM-WindowsNoEditor.pak 1039089060,LA_IM\Content\Splash\Splash.bmp 43038
+LAIM_Version.txt,0,5
+LA_IM.exe,0,338432
+Manifest_NonUFSFiles_Win64.txt,0,2237
+Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll,0,1369936
+Engine\Binaries\ThirdParty\libsndfile\Win64\libsndfile-1.dll,0,1810944
+Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64\GFSDK_Aftermath_Lib.x64.dll,0,117760
+Engine\Binaries\ThirdParty\Oculus\OVRPlugin\OVRPlugin\Win64\OVRPlugin.dll,0,2442168
+Engine\Binaries\ThirdParty\Ogg\Win64\VS2015\libogg_64.dll,0,49152
+Engine\Binaries\ThirdParty\OpenVR\OpenVRv1_5_17\Win64\openvr_api.dll,0,597792
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\ApexFramework_x64.dll,0,1043968
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Clothing_x64.dll,0,1219072
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Legacy_x64.dll,0,3329536
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\NvCloth_x64.dll,0,265728
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Common_x64.dll,0,1598976
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Cooking_x64.dll,0,244736
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3_x64.dll,0,2106368
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxFoundation_x64.dll,0,54784
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxPvdSDK_x64.dll,0,188928
+Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll,0,37888
+Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll,0,1714176
+Engine\Binaries\ThirdParty\Windows\DirectX\x64\WinPixEventRuntime.dll,0,44752
+Engine\Binaries\Win64\CrashReportClient.exe,0,16771328
+Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe,0,41562088
+Engine\Programs\CrashReportClient\Content\Paks\CrashReportClient.pak,0,5007885
+LA_IM\Binaries\Win64\LA_IM-Win64-Shipping.exe,0,51516928
+LA_IM\Content\Movies\creditUE4.mp4,0,7924288
+LA_IM\Content\Movies\Intro Clean.mp4,0,1340257
+LA_IM\Content\Movies\IntroClean-Black.mp4,0,1199280
+LA_IM\Content\Movies\UE4_Moving_Logo_1080_60.mp4,0,4160699
+LA_IM\Content\Paks\LA_IM-WindowsNoEditor.pak,0,1039089060
+LA_IM\Content\Splash\Splash.bmp,0,43038
